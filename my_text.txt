@@ -1,1 +1,1 @@
-This is for test conflicts in git hub.
+This is for test conflicts in git hub .
