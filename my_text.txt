@@ -3,3 +3,4 @@ Inserted in conf_branch
 Ohhhhhhhhhhh
 <><><><><>
 ><><><><><
+Test multiple add reset
