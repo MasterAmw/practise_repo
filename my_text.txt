@@ -1,4 +1,9 @@
 This is for test conflicts in git hub.
 Inserted in conf_branch UPDATED in master
+<<<<<<< HEAD
 Ohhhhhhhhhhh conf
 Okkkkkkkkkkk conf updated by repo 1
+=======
+Ohhhhhhhhhhh
+Okkkkkkkkkkk conf Updated in repo 2
+>>>>>>> b88a38ffbebec01c4846d4e69be1173f43120621
