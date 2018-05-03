@@ -1,2 +1,3 @@
 This is my second file for test "git add " reset
 Inserted by repo 2
+Inserted After on commit
