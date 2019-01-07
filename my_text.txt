@@ -1,4 +1,5 @@
 Cleared all things and write this by Amila
 Amila madushanka wickramarathna
-Rename commit second time
+Rename commit after push
+
 
